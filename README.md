@@ -4,7 +4,7 @@ icinga2-check_ucopia is an icinga2 plugin to check the status of ucopia controll
 
 The plugin uses snmp.
 
-The following services are monitored:
+The following services can be monitored:
 - autodisconnectService
 - cpuTemperature
 - dhcpServerService
